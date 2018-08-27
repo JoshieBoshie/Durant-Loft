@@ -16,7 +16,7 @@ Shift
 - belongs to up to three users
 
 Event
-- DESCRIBE EVENT MODEL HERE---------------------------------------------------------------
+- Allows the user to create an event that will describe event details as well as how to find rides to the event.
 
 Item
 - has a name, category, and booleans indicated whether it is checkable, and if it can be permanently checked or not
@@ -28,7 +28,6 @@ Item
 - users can check out and return items from inventory
 - users who are manners can view shifts and sign up for shifts
 - users who are manners or admin can view security codes
-- DESCRIBE MEETUP FEATURE HERE---------------------------------------------------------------
 
 #Division of Labor:
 - Josh Asuncion: front end, security
