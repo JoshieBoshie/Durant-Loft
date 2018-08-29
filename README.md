@@ -38,4 +38,4 @@ Brandon Fong: Devise, shifts, seeds
 Emmett Ling: front end, inventory
 Joshua Yang: meetup (events), front end
 
-![Screenshot](Screen Shot 2018-08-29 at 1.01.29 AM.png)
+![image](Screen Shot 2018-08-29 at 1.02.41 AM.png)
