@@ -1,5 +1,6 @@
 # Durant-Loft
-# Project: Durant Loft Application 
+# Project: 
+  Durant Loft Application 
 # Team Members: Josh Asuncion, Brandon Fong, Emmett Ling, Joshua Yang 
 # Demo Link: https://www.youtube.com/watch?v=HjRlNPhKy8E
 
