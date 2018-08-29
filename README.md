@@ -37,5 +37,3 @@ Josh Asuncion: front end, security
 Brandon Fong: Devise, shifts, seeds
 Emmett Ling: front end, inventory
 Joshua Yang: meetup (events), front end
-
-![image](Screen Shot 2018-08-29 at 1.02.41 AM.png)
